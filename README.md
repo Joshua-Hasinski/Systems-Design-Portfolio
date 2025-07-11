@@ -27,5 +27,5 @@ This is a multi-year, self-directed research and development project to architec
 * **System Design & Modeling:** Established a hierarchical rule-based system to ensure internal consistency. Developed a detailed data taxonomy to govern entity interactions and simulated multi-stage life cycles to validate long-term system stability.
 
 ---
-[Resume.pdf](https://github.com/user-attachments/files/21191133/Resume.pdf)
-[Skills Matrix.pdf](https://github.com/user-attachments/files/21191134/Skills.Matrix.pdf)
+* [Resume.pdf](./Resume.pdf)
+* [Skills-Matrix.pdf](./Skills-Matrix.pdf)
