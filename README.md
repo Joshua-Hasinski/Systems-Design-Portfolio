@@ -1,6 +1,6 @@
 # Systems Design & Analysis Portfolio - Joshua Hasinski
 
-> *For the best viewing experience of the PDF documents in this repository, please use the bookmarks or outline sidebar in your PDF viewer. This feature is typically found under the "View" menu and allows for easy navigation between sections.*
+> *Welcome. This portfolio showcases a multi-year project in complex systems design, demonstrating a deep expertise in conceptual architecture, quality assurance, and technical documentation.*
 
 ---
 
