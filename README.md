@@ -35,7 +35,7 @@ Welcome to my portfolio. This repository serves as the central hub for my profes
 
 This is a multi-year, self-directed research and development project to architect a complex, rule-based conceptual system from the ground up.
 
-* **System Architecture & Documentation:** Architected a complex conceptual framework ('Chimera Aggregate') and authored over 2.47 million words of comprehensive technical documentation, including process flows and rule-set definitions.
+* **System Architecture & Foundational Research:** Authored over 4 million words of comprehensive technical documentation that establishes the core theoretical framework for the entire project. This documentation covers everything from first principles in material science and control systems theory to detailed architectural schematics and procedural rule-sets.
 
 * **Quality Assurance & Analysis:** Performed continuous QA on conceptual models to identify and resolve thousands of logical flaws and data continuity errors; conducted root cause analysis to trace systemic issues back to foundational rule conflicts.
 
