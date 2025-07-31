@@ -1,0 +1,70 @@
+/* A clean, professional "Dark Mode" stylesheet */
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #0d1117; /* GitHub's dark background color */
+    color: #c9d1d9; /* GitHub's standard dark mode text color */
+    margin: 0;
+    padding: 20px;
+}
+
+.container {
+    max-width: 840px;
+    margin: auto;
+    background: #161b22; /* A slightly lighter dark color for the main content box */
+    padding: 25px 40px;
+    border: 1px solid #30363d;
+    border-radius: 6px;
+}
+
+.welcome-box {
+    background-color: #0d1117; /* Match the main background */
+    border: 1px solid #30363d;
+    padding: 16px;
+    margin-bottom: 24px;
+    border-radius: 6px;
+}
+
+/* --- Typography & Spacing --- */
+
+h1, h2, h3 {
+    color: #f0f6fc; /* A brighter white for headings */
+}
+
+h1, h2 {
+    border-bottom: 1px solid #30363d; /* A dark mode border color */
+    padding-bottom: 0.3em;
+    margin-top: 24px;
+    margin-bottom: 16px;
+}
+
+h1 { margin-top: 0; }
+
+h3 { margin-top: 24px; margin-bottom: 16px; }
+
+p { margin-top: 0; margin-bottom: 16px; }
+
+/* --- Links & Lists --- */
+
+a {
+    color: #58a6ff; /* A brighter blue that stands out on dark backgrounds */
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+ul { padding-left: 20px; margin-top: 0; }
+
+li { margin-bottom: 8px; }
+
+footer {
+    text-align: center;
+    margin-top: 40px;
+    padding-top: 20px;
+    border-top: 1px solid #30363d;
+    font-size: 0.9em;
+    color: #8b949e; /* A muted grey for the footer text */
+}
