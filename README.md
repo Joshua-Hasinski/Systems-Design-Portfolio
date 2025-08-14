@@ -13,21 +13,34 @@ Welcome to my portfolio. This repository serves as the central hub for my profes
 * **[My Professional Resume](./Resume.pdf)** - A comprehensive overview of my experience, skills, and education.
 * **[Technical Skills Matrix](./Skills-Matrix.pdf)** - A detailed breakdown of my proficiency with various technologies, software, and methodologies.
 
-## 📂 Featured Project: Case Study
 
-* [**Case Study 1: System Architecture & Design**](https://docs.google.com/document/d/14mDVefZN6K9ngMecFAdT46nrOXS8evtONT-gY1nWwaw/edit?usp=sharing)
+---
+
+### Live Technical Projects ⚡
+*This section contains links to my standalone, deployable projects. Each repository includes functional code, detailed documentation, and live demos.*
+
+* **[Architect Project Portfolio](https://github.com/Joshua-Hasinski/architect-project-portfolio)**: A full-stack application featuring a React frontend and a Python FastAPI backend, deployed independently on Render to demonstrate containerization and cloud hosting skills.
+* **[Real-Time Log Dashboard](https://github.com/Joshua-Hasinski/real-time-log-dashboard)**: A dashboard that visualizes real-time streaming data over a WebSocket connection, showcasing Python/FastAPI on the backend and Recharts library on the frontend.
+* **[Code Sample: Gecko-API Data Client](https://github.com/Joshua-Hasinski/Gecko-API-Data-Client)**: A Python ETL script that demonstrates proficiency in consuming external REST APIs, processing JSON data, and managing a local SQLite database.
+
+---
+
+### Architectural Deep Dives (The Chimera Project) 🌱
+*The following are deep-dive explorations into the core architectural and philosophical components of my primary multi-year R&D effort, the Chimera Project.*
+
+* [**System Architecture & Design**](https://docs.google.com/document/d/14mDVefZN6K9ngMecFAdT46nrOXS8evtONT-gY1nWwaw/edit?usp=sharing)
     * *A deep dive into the foundational architecture, rule-based logic, and conceptual framework of the system.*
 
-* [**Case Study 2: Quality Assurance & State Contradiction**](https://docs.google.com/document/d/103SATuzl5QPPiXLEV8hl5OYySHdjJV6r8hCfTNAxtSw/edit?usp=sharing)
+* [**Quality Assurance & State Contradiction**](https://docs.google.com/document/d/103SATuzl5QPPiXLEV8hl5OYySHdjJV6r8hCfTNAxtSw/edit?usp=sharing)
   * *An analysis of the QA process used to identify and resolve thousands of logical flaws, including a specific example of a critical state contradiction.*
 
-* [**Case Study 3: Data Taxonomy & Modeling**](https://docs.google.com/document/d/1AhRd8gCef3tT3JdLA0Z2XfpCvaO8XthJHfxGRl8jPzU/edit?usp=sharing)
+* [**Data Taxonomy & Modeling**](https://docs.google.com/document/d/1AhRd8gCef3tT3JdLA0Z2XfpCvaO8XthJHfxGRl8jPzU/edit?usp=sharing)
     * *Details the creation of a hierarchical taxonomy to classify all system entities and govern their interactions.*
 
-* [**Case Study 4: Procedural Generation Logic**](https://docs.google.com/document/d/1OYjXW3JBXlLfeXfipmv-NhSiu0kLfqfQphvqmnfzg9A/edit?usp=sharing)
+* [**Procedural Generation Logic**](https://docs.google.com/document/d/1OYjXW3JBXlLfeXfipmv-NhSiu0kLfqfQphvqmnfzg9A/edit?usp=sharing)
     * *An exploration of the procedural generation algorithms used to create dynamic scenarios and entities based on a core set of rules.*
 
-* [**Case Study 5: Life Cycle Simulation**](https://docs.google.com/document/d/1G2asZhIjdPlUG5sJB3o4I89nUMpfH9-SiIlqGMG2AbM/edit?usp=sharing)
+* [**Life Cycle Simulation**](https://docs.google.com/document/d/1G2asZhIjdPlUG5sJB3o4I89nUMpfH9-SiIlqGMG2AbM/edit?usp=sharing)
     * *A case study on the simulation of multi-stage life cycle processes, modeling resource allocation, stress adaptation, and state transitions to validate long-term system viability.*
 
 ### Project: Chimera Aggregate
