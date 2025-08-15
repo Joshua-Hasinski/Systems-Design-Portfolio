@@ -22,6 +22,7 @@ Welcome to my portfolio. This repository serves as the central hub for my profes
 * **[Architect Project Portfolio](https://github.com/Joshua-Hasinski/architect-project-portfolio)**: A full-stack application featuring a React frontend and a Python FastAPI backend, deployed independently on Render to demonstrate containerization and cloud hosting skills.
 * **[Real-Time Log Dashboard](https://github.com/Joshua-Hasinski/real-time-log-dashboard)**: A dashboard that visualizes real-time streaming data over a WebSocket connection, showcasing Python/FastAPI on the backend and Recharts library on the frontend.
 * **[Code Sample: Gecko-API Data Client](https://github.com/Joshua-Hasinski/Gecko-API-Data-Client)**: A Python ETL script that demonstrates proficiency in consuming external REST APIs, processing JSON data, and managing a local SQLite database.
+* **[Data Visualization Dashboard](https://github.com/Joshua-Hasinski/Data-Visualization-Portfolio)**: An interactive dashboard built with Microsoft Power BI to demonstrate data modeling, transformation, and business intelligence skills.
 
 ---
 
