@@ -1,4 +1,5 @@
-# Systems Design & Analysis Portfolio - Joshua Hasinski
+# Systems Design & Analysis Portfolio - 
+Joshua Hasinski
 
 > *Welcome. This portfolio showcases a multi-year project in complex systems design, demonstrating a deep expertise in conceptual architecture, quality assurance, and technical documentation.*
 
