@@ -32,16 +32,16 @@ Welcome to my portfolio. This repository serves as the central hub for my profes
 * **[System Architecture & Design](SYSTEM_SPECIFICATION-AN_ADAPTIVE_BEHAVIOR_PROTOCOL_FOR_DYNAMIC_SYSTEMS.md)**
     * *A deep dive into the foundational architecture, rule-based logic, and conceptual framework of the system.*
 
-* **[Quality Assurance & State Contradiction](QUALITY_ASSURANCE_CASE_STUDY_RESOLVING_A_STATE_CONTRADICTION_IN_A_MULTI-STAGE_LIFE_CYCLE_MODEL.md)**
+* **[Quality Assurance & State Contradiction](QUALITY_ASSURANCE_CASE_STUDY_RESOLVING_A_STATE.md)**
     * *An analysis of the QA process used to identify and resolve thousands of logical flaws, including a specific example of a critical state contradiction.*
 
-* **[Data Taxonomy & Modeling](DATA_STRUCTURE_TAXONOMY_FOR_HYDROGEL-BASED_ANALOGUE_COMPONENTS.md)**
+* **[Data Taxonomy & Modeling](DATA_STRUCTURE_TAXONOMY_FOR_HYDROGEL-BASED_ANA.md)**
     * *Details the creation of a hierarchical taxonomy to classify all system entities and govern their interactions.*
 
-* **[Procedural Generation Logic](FRAMEWORK_FOR_PROCEDURAL_GENERATION_OF_UNIQUE_ENTITY_ATTRIBUTES.md)**
+* **[Procedural Generation Logic](FRAMEWORK_FOR_PROCEDURAL_GENERATION_OF_UNIQUE_EN.md)**
     * *An exploration of the procedural generation algorithms used to create dynamic scenarios and entities based on a core set of rules.*
 
-* **[Life Cycle Simulation](SIMULATION_MODEL_FOR_MULTI-STAGE_LIFE_CYCLE_AND_ENVIRONMENTAL_ADAPTATION.md)**
+* **[Life Cycle Simulation](SIMULATION_MODEL_FOR_MULTI-STAGE_LIFE_CYCLE_AND.md)**
     * *A case study on the simulation of multi-stage life cycle processes, modeling resource allocation, stress adaptation, and state transitions to validate long-term system viability.*
 
 ### Project: Chimera Aggregate
