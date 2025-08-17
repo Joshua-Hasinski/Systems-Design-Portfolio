@@ -45,7 +45,6 @@ This solution introduces a simple, low-cost validation check that completely pre
 
 ![Revised Process Flowchart](Resolving_State_Contradiction_in_Lifecycle_Models_A_QA_Case_Study.png)
 
-*Note: Replace `PATH_TO_YOUR_IMAGE.PNG` with the actual file path or URL for your flowchart image.*
 
 ---
 
