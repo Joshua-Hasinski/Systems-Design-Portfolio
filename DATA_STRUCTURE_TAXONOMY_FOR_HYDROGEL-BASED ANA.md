@@ -69,7 +69,6 @@ The following is a representative sample of the taxonomy, focusing on the **"Str
 
 ![Conceptual Query Flowchart](Data_Taxonomy_for_Hydrogel_Analogue_Components.png)
 
-*Note: Replace `PATH_TO_YOUR_IMAGE.PNG` with the actual file path or URL for your flowchart image.*
 
 ---
 
