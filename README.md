@@ -19,7 +19,7 @@ Welcome to my portfolio. This repository serves as the central hub for my profes
 ### Visual Overview: The Chimera Aggregate Knowledge Graph
 The image below is a high-level snapshot of the project's living knowledge graph. This is the result of a **three-year, solo R&D effort** to architect a complex conceptual system from the ground up, documented across over four million words. The full, interactive version of this graph is reserved for discussion during interviews.
 
-![Chimera Aggregate Knowledge Graph](Knowledge_Graph_View.png)
+<img src="knowledge-graph-view.png" alt="Chimera Aggregate Knowledge Graph" width="700">
 
 
 ---
