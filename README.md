@@ -11,7 +11,7 @@ Welcome to my portfolio. This repository serves as the central hub for my profes
 ## 📄 Core Documents
 
 * **[My Professional Resume](./Resume.pdf)** - A comprehensive overview of my experience, skills, and education.
-* **[Technical Skills Matrix](./Skills-Matrix.pdf)** - A detailed breakdown of my proficiency with various technologies, software, and methodologies.
+* **[Technical Skills](./Capabilities-Briefing.pdf)** - A detailed breakdown of my proficiency with various technologies, software, and methodologies.
 
 
 ---
