@@ -16,7 +16,7 @@ Welcome to my portfolio. This repository serves as the central hub for my profes
 
 ---
 
-### Visual Overview: The Chimera Aggregate Knowledge Graph
+### Visual Overview: The Chimera Project Knowledge Graph
 The image below is a high-level snapshot of the project's living knowledge graph. This is the result of a **three-year, solo R&D effort** to architect a complex conceptual system from the ground up, documented across over **5 million words.** The full, interactive version of this graph is reserved for discussion during interviews.
 
 <img src="knowledge-graph-view.png" alt="Chimera Aggregate Knowledge Graph" width="700">
@@ -52,7 +52,7 @@ The image below is a high-level snapshot of the project's living knowledge graph
 * **[Life Cycle Simulation](SIMULATION_MODEL_FOR_MULTI-STAGE_LIFE_CYCLE_AND.md)**
     * *A case study on the simulation of multi-stage life cycle processes, modeling resource allocation, stress adaptation, and state transitions to validate long-term system viability.*
 
-### Project: Chimera Aggregate
+### Chimera Project
 *Self-Directed | June 2022 – Present*
 
 This is a multi-year, self-directed research and development project to architect a complex, rule-based conceptual system from the ground up.
